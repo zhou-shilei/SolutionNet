@@ -1,0 +1,7 @@
+auth.json
+.env
+__pycache__/
+*.py[cod]
+.gradio/
+outputs/
+.venv/

@@ -1,0 +1,9 @@
+{
+  "weights": "models/solutionnet.pth",
+  "model_kind": "SolutionNet",
+  "in_channels": 39,
+  "hidden_channels": 144,
+  "edge_dim": 10,
+  "dropout": 0.2,
+  "threshold_default": 0.5
+}
